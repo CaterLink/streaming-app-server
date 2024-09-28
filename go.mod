@@ -1,6 +1,6 @@
 module agora-streaming-server
 
-go 1.23.1
+go 1.23.0
 
 require (
 	github.com/AgoraIO-Community/go-tokenbuilder v1.3.0 // indirect
